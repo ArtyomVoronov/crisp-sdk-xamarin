@@ -1,0 +1,6 @@
+Binding for:
+im.crisp:crisp-sdk:0.1.1
+
+Dependencies:
+
+crisp-sdk-0.1.1.aar,    Path=C:\Users\auvor\.gradle\caches\modules-2\files-2.1\im.crisp\crisp-sdk\0.1.1\3f956445bc20167463a6dccf72d4b23c1a0d62ac\crisp-sdk-0.1.1.aar

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>AV.CrispSdk.Android</id>
+    <version>0.1.1</version>
+    <title>CrispSdk.Android</title>
+    <authors>Artyom Voronov</authors>
+    <owners>Artyom Voronov</owners>
+    <licenseUrl>https://github.com/ArtyomVoronov/crisp-sdk-xamarin/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/ArtyomVoronov/crisp-sdk-xamarin</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Xamarin.Android bindings for Crisp SDK</description>
+    <releaseNotes>First release.</releaseNotes>
+    <copyright>Copyright 2018</copyright>
+    <tags>Crisp Android Xamarin</tags>
+  </metadata>
+</package>
